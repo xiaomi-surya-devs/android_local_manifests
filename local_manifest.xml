@@ -11,5 +11,6 @@
 
     <!-- Misc Dependencies -->
     <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="surya-blobs" revision="lineage-24.0" />
+    <project name="android_vendor_oneplus_dolby" path="vendor/oneplus/dolby" remote="surya-blobs" revision="lineage-24.0" />
     <project name="ShinkaiProject/shinkai_vendor_private_keys" path="vendor/private/keys" remote="github" revision="heptakaideka" />
 </manifest>
