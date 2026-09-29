@@ -4,13 +4,13 @@
     <remote name="surya-blobs" fetch="https://github.com/xiaomi-surya-devs" />
 
     <!-- Device core repos -->
-    <project name="android_device_xiaomi_surya" path="device/xiaomi/surya" remote="surya-blobs" revision="lineage-24.0" />
-    <project name="android_kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="surya-blobs" revision="lineage-24.0" />
-    <project name="android_vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="surya-blobs" revision="lineage-24.0" />
-    <project name="android_vendor_xiaomi_camera" path="vendor/xiaomi/camera" remote="surya-blobs" revision="lineage-24.0" />
+    <project name="device_xiaomi_surya" path="device/xiaomi/surya" remote="surya-blobs" revision="lineage-24.0" />
+    <project name="kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="surya-blobs" revision="lineage-24.0" />
+    <project name="vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="surya-blobs" revision="lineage-24.0" />
+    <project name="vendor_xiaomi_camera" path="vendor/xiaomi/camera" remote="surya-blobs" revision="lineage-24.0" />
 
     <!-- Misc Dependencies -->
-    <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="surya-blobs" revision="lineage-24.0" />
-    <project name="android_vendor_oneplus_dolby" path="vendor/oneplus/dolby" remote="surya-blobs" revision="lineage-24.0" />
+    <project name="hardware_xiaomi" path="hardware/xiaomi" remote="surya-blobs" revision="lineage-24.0" />
+    <project name="vendor_oneplus_dolby" path="vendor/oneplus/dolby" remote="surya-blobs" revision="lineage-24.0" />
     <project name="ShinkaiProject/shinkai_vendor_private_keys" path="vendor/private/keys" remote="github" revision="heptakaideka" />
 </manifest>
