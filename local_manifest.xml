@@ -5,7 +5,7 @@
 
     <!-- Device core repos -->
     <project name="device_xiaomi_surya" path="device/xiaomi/surya" remote="surya-blobs" revision="lineage-24.0" />
-    <project name="kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="surya-blobs" revision="lineage-24.0" />
+    <project name="kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="surya-blobs" revision="rethinking" />
     <project name="vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="surya-blobs" revision="lineage-24.0" />
     <project name="vendor_xiaomi_camera" path="vendor/xiaomi/camera" remote="surya-blobs" revision="lineage-24.0" />
 
